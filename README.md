@@ -31,6 +31,5 @@ Hi 👋! My name is Aryan Agney and I'm a full stack developer from INDIA<br><br
 ###
 <br clear="both">
 
-<img href="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
