@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋! My name is Aryan Agney and I'm a full stack developer from INDIA<br><br>🔭 I’m currently working as web developer intern at DAVEAI<br>👯 I’m looking to collaborate on Web Projects<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about<br>      :anything you want ; )<br>
+Hi 👋! My name is Aryan Agney and I'm a full stack developer from INDIA<br><br>🔭 I’m currently working as web developer intern at DAVEAI<br>👯 I’m looking to collaborate on Web Projects<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about<br>      :anything you want ; )
+<img align="right" height="150" src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif"  /><br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_agney) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryna-agney) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/aryan-agney) 
 
@@ -26,7 +27,7 @@ Hi 👋! My name is Aryan Agney and I'm a full stack developer from INDIA<br><br
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aryanagney) 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif"  />
+
 
 ###
 <br clear="both">
