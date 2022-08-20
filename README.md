@@ -30,6 +30,6 @@
 ###
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/aryan1120/aryan1120/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
